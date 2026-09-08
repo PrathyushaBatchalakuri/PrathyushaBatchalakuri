@@ -4,16 +4,15 @@ Welcome to My Digital Playground! 🚀👩‍💻
 
 👩🏻‍💻 **About Me:**
 --------------------------------------------------------------------------------
-- 💼 **Current Role:** Software Engineer at the University of Florida[cite: 1].
-- 🎓 **Education:** Master of Science in Computer Science from the University of Florida[cite: 1].
-- 🌟 Passionate about building highly scalable distributed systems, developing RAG/LLM pipelines, and deploying robust cloud infrastructure[cite: 1].
-- 📄 **Resume:** Check out my full experience in [`Prathyusha_Batchalakuri_Resume_GHC.docx`](./Prathyusha_Batchalakuri_Resume_GHC.docx)[cite: 1].
+- 💼 **Current Role:** Software Engineer at the University of Florida.
+- 🎓 **Education:** Master of Science in Computer Science from the University of Florida.
+- 🌟 Passionate about building highly scalable distributed systems, developing RAG/LLM pipelines, and deploying robust cloud infrastructure.
 
 ## 🚀 Featured Projects
-* **GrocerEase AI:** Engineered a multi-agent AI system using Python, LangGraph, and RAG pipelines to enable autonomous planning workflows[cite: 1].
-* **LLM Fine-Tuning:** Trained and fine-tuned LLaMA 3 and DeepSeek R1 for Text-to-SQL generation using LoRA adapters, boosting accuracy by up to 10%[cite: 1].
-* **Goodwill Hunting:** Built a full-stack donation platform with real-time maps and Gemini AI integration, ranking in the Top 15 at ShellHacks 2025[cite: 1].
-* **Animal Fact Tracker:** Developed a full-stack TypeScript and Next.js application that handled 10,000+ active users with 98% uptime[cite: 1].
+* **GrocerEase AI:** Engineered a multi-agent AI system using Python, LangGraph, and RAG pipelines to enable autonomous planning workflows.
+* **LLM Fine-Tuning:** Trained and fine-tuned LLaMA 3 and DeepSeek R1 for Text-to-SQL generation using LoRA adapters, boosting accuracy by up to 10%.
+* **Goodwill Hunting:** Built a full-stack donation platform with real-time maps and Gemini AI integration, ranking in the Top 15 at ShellHacks 2025.
+* **Animal Fact Tracker:** Developed a full-stack TypeScript and Next.js application that handled 10,000+ active users with 98% uptime.
 
 ## 🛠️ Technologies and Tools I Use:
 **Languages:**
